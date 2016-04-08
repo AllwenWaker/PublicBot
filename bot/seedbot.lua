@@ -272,23 +272,20 @@ function create_config( )
     "Welcome",
     "Who",
     "Xy",
-    "InvParsa",
     "InvAllen"
     },
-    sudo_users = {174770816,105831687},--Sudo users
+    sudo_users = {174770816},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Strong Bot Version 1.0
+    about_text = [[Public Bot Version 1.0
 An advance Administration bot based on SEEDTEAM/TeleSeed
 
 Our team!
 
 @Allwen [Founder]
 
-@ParsaAlemi [Developer]
-
 Our channels:
-@StrongTeam
+Public Team
 ]],
     help_text_realm = [[
 Realm Commands:
